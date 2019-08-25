@@ -9,7 +9,7 @@ CREATE TABLE products
   product VARCHAR
   (45) NULL,
   department VARCHAR
-  (50)NULL,
+  (80)NULL,
   price DECIMAL
   (10,2) NULL,
   stockQuantity INT NULL,
