@@ -28,7 +28,7 @@ CREATE TABLE products
   INSERT INTO products
     (product, department,price, stockQuantity)
   VALUES
-    ("watermelon", "fruit", 3, 30);
+    ("grape", "fruit", 3, 30);
   INSERT INTO products
     (product, department,price, stockQuantity)
   VALUES
