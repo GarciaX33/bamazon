@@ -1,6 +1,6 @@
 ## BAMAZON console app
 
-### a simple console app prompting users with questions about what they want to purchase and keeps track of stock with mysql
+### a simple console app prompting users with questions about what they want to purchase and keeps track of stock with mysql db
 
 
 ![node bamazoncustomer](https://github.com/GarciaX33/bamazon/blob/master/images/first.PNG)
